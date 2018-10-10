@@ -1,1 +1,8 @@
 ### spatial_adapter
+---
+
+
+```ruby
+
+```
+
